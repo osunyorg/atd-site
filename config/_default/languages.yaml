@@ -5,6 +5,14 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      x: >-
+        https://twitter.com/Reseau_ATD
+      facebook: >-
+        https://www.facebook.com/Tourisme.Durable/
+      tiktok: >-
+        https://www.linkedin.com/company/acteurs-du-tourisme-durable
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
