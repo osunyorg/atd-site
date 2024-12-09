@@ -7,13 +7,24 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      x: >-
-        https://twitter.com/Reseau_ATD
-      facebook: >-
-        https://www.facebook.com/Tourisme.Durable/
-      tiktok: >-
-        https://www.linkedin.com/company/acteurs-du-tourisme-durable
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            Tourisme.Durable
+          value: >-
+            https://www.facebook.com/Tourisme.Durable
+        tiktok:
+          label: >-
+            linkedin.comcompanyacteurs-du-tourisme-durable
+          value: >-
+            https://www.tiktok.com/@linkedin.comcompanyacteurs-du-tourisme-durable
+        x:
+          label: >-
+            Reseau_ATD
+          value: >-
+            https://x.com/Reseau_ATD
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
